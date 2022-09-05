@@ -11,9 +11,3 @@ function removeActiveClasses() {
         img.classList.remove('active');
     })
 }
-function abc() {
-    console.log(abc);
-}
-function ac() {
-    console.log(abc);
-}
